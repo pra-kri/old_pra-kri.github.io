@@ -1,0 +1,79 @@
+===========================================
+Topic-List						Prabesh K						15/02/19	
+===========================================
+
+
+>	Python Knowledge		- Data Structures (lists, dictionaries, tuples, sets...etc)
+										- try/except (Error handling)
+										- OOP - Classes, def __init__(self), ...etc, methods + attributes
+										- Iterators vs Generators (range vs xrange)
+										- *args, **kwargs
+										- Map, Filter, Reduce 
+										- Deep copies vs shallow copies
+										- List comprehensions
+										- Lambdas
+										- Global Interpreter Lock (1 thread at a time)
+										- PEP 8 standards...
+										
+										- Jupyter Notebooks...
+										- Modules (pandas, numpy, matplotlib, sklearn...etc)
+
+									
+> Finance Knowledge		- I've skimmed through parts of 'Options, Futures & Other Derivatives' (Hull)...
+										- Ito's Lemma + Black Scholes
+										- Greeks (theta, delta,... etc)
+										- VaR 
+										- Credit Risk Modelling (Merton Model)
+										- Monte Carlo simulations
+										
+										
+> Machine Learning		GENERAL M.L. PIPELINE
+										---------------------------
+										- Bias/Variance trade-off
+										- Data cleaning + preparation (e.g. log-transformations)
+										- Dimension reduction 
+										- Train/test data split (e.g. K-fold cross validation)
+										- Model selection process (e.g. subset selection)
+										- AIC + BIC (information criteria)
+										
+										SPECIFIC M.L. TECHNIQUES
+										--------------------------------
+										- Linear Regression 
+										- Clustering
+										- Neural Networks
+										- Optimisaton algorithms (gradient descent, random search...)
+
+									
+>	Linux experience		- I last wrote BASH scripts about a year ago, but I've used:
+												- sed, grep, awk....etc
+												
+	
+> Non-tech experience	- User Test-cases
+										- BRD writing
+										- User guides
+										- 'Stakeholder management' 
+										
+==========================================
+Topics I'm aware of, but need to study more....
+==========================================
+
+>	Algorithmic complexity - Search Algorithms (Linear, Binary, Hashmaps)
+											- Sorting Algorithms
+											- Big-O notation
+										
+>	Other Data Structures	- Linked Lists
+											- Trees 
+											- Graphs
+										
+> Misc.								- Design Patterns (OOP)
+											- Memory management + Pointers (C++)
+											- Functional programming (Lisp, Haskell...)
+											- Web Frameworks (Django, Flask...)
+
+> Time Series Analysis		- ARIMA
+											- GARCH (volatility clustering...)
+												(basically ARMA applied to the variance of a time-series)
+											- Hidden Markov Models (regime detection)
+			
+											
+											
