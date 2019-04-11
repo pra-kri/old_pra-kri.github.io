@@ -7,8 +7,11 @@
 
 Computational Statistics & Machine Learning                         | 
 -------------------------------------- | 
-aaaa | 
-aaaa | 
+[Employee Churn Predictive Modelling - HR Data (from Kaggle) ](https://pra-kri.github.io/projects/ML_HR_analytics/project) | 
+
+
+
+
 
 
 
@@ -16,6 +19,9 @@ Interesting Algorithms                                 |
 -------------------------------------- | 
 bbbbbbb | 
 bbbbbbb | 
+
+
+
 
 
 
