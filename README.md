@@ -5,23 +5,23 @@
 
 
 
-AAAAAA                                 | 
+Computational Statistics & Machine Learning                         | 
 -------------------------------------- | 
 aaaa | 
 aaaa | 
 
 
 
-AAAAAA                                 | 
+Interesting Algorithms                                 | 
 -------------------------------------- | 
-aaaa | 
-aaaa | 
+bbbbbbb | 
+bbbbbbb | 
 
 
 
 
-AAAAAA                                 | 
+Other Notes                                | 
 -------------------------------------- | 
-aaaa | 
-aaaa | 
+ccccccc | 
+ccccccc | 
 
