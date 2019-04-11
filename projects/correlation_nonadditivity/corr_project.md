@@ -360,7 +360,7 @@ I guess the lesson learnt from this is: do not use the Pearson correlation coeff
 
 Possible areas where underestimating correlation could have a negative impact:
  - Risk management within finance (e.g. sector-asset correlation)
- - Medical statistics (e.g. maybe in meta-analysis studies)
+ - Medical statistics + Pharmaceutical studies (e.g. p-hacking to underplay the negative effects of a drug)
 
 
 
