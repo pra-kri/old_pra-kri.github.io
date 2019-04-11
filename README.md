@@ -1,7 +1,7 @@
-# pra-kri.github.io
 
 # **Notes on Computational Statistics**
 
+[Link to my github](https://github.com/pra-kri)
 
 
 
@@ -11,4 +11,17 @@ aaaa |
 aaaa | 
 
 
+
+AAAAAA                                 | 
+-------------------------------------- | 
+aaaa | 
+aaaa | 
+
+
+
+
+AAAAAA                                 | 
+-------------------------------------- | 
+aaaa | 
+aaaa | 
 
