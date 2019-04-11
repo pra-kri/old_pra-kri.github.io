@@ -1,7 +1,8 @@
 
 # **Notes on Computational Statistics**
 
-[Link to my github](https://github.com/pra-kri)
+[Github link](https://github.com/pra-kri)
+[Website link](https://pra-kri.github.io)
 
 
 
