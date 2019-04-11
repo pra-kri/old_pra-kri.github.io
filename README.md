@@ -17,14 +17,12 @@ Computational Statistics & Machine Learning                         |
 
 Interesting Algorithms                                 | 
 -------------------------------------- | 
-bbbbbbb | 
-bbbbbbb | 
+empty | 
 
 <br/>
 <br/>
 
 Other Notes                                | 
 -------------------------------------- | 
-ccccccc | 
-ccccccc | 
+empty | 
 
