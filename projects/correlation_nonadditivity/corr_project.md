@@ -1,8 +1,8 @@
 
-# Exploring the Non-Additivity of Correlation
+# Exploring Correlation of Non-Random Subsamples
 
 
-In this notebook, I'll be exploring the non-additive properties of correlation, and the consequences that arise from this. This notebook is mostly inspired by Professor N.Taleb's [paper](https://www.dropbox.com/s/18pjy7gmz0hl6q7/Correlation.pdf?dl=0).
+In this notebook, I'll be exploring how the correlation of non-random subsamples can differ significantly from 'true' correlation of the population. This notebook is mostly inspired by Professor N.Taleb's [paper](https://www.dropbox.com/s/18pjy7gmz0hl6q7/Correlation.pdf?dl=0).
 
 
 ```python
