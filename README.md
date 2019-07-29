@@ -7,6 +7,11 @@
 
 <br/>
 <br/>
+## ** Topics of Interest **
+
+
+
+
 
 Computational Statistics & Machine Learning| Type|
 -------------------------------------- |-------|
@@ -24,7 +29,7 @@ empty |
 <br/>
 <br/>
 
-Other Notes                                | 
+Other Notes + Essays                   | 
 -------------------------------------- | 
 empty | 
 
