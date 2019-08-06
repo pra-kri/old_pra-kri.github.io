@@ -1,6 +1,12 @@
 
 # **Notes on Computational Statistics**
 
+1234
+<br>
+5678
+<br>
+9101112
+
 [Github link](https://github.com/pra-kri)
 <br/>
 [Website link](https://pra-kri.github.io)
