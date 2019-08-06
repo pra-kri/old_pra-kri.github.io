@@ -20,7 +20,7 @@ Hi, I'm Prabesh.<br>I did some Physics for my undergrad degree (2017), and then 
 - Jupyter & Mathematica Notebooks
 
 ## Authors, Books and Websites list
-* (This is kind of a to-do list - to remind myself what topics I could write about...) *
+*(This is kind of a to-do list - to remind myself what topics I could write about...) *
 - ....
 - ....
 <br>
