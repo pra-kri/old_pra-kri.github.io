@@ -3,7 +3,7 @@
 [Github link](https://github.com/pra-kri)      [Website link](https://pra-kri.github.io)
 <br/>
 ## Bio
-Hi, I'm Prabesh.<br>I did some Physics for my undergrad degree (2017), and then got into coding/software for a bit, and in 2019/2020 I'll be doing an MSc in Computer Science (hopefully specialising in Machine Learning).<br>Over the next year or so, I'll try to write interesting essays about new topics I've read about. Maybe I can come up with an interesting bunch of questions to explore further. 
+Hi, I'm Prabesh.<br><br>I did some Physics for my undergrad degree (2017), and then got into coding/software for a bit, and in 2019/2020 I'll be doing an MSc in Computer Science (hopefully specialising in Machine Learning).<br><br>Over the next year or so, I'll try to write interesting essays about new topics I've read about. Maybe I can come up with an interesting bunch of questions to explore further. 
 ## Interests
 *Decision-making under risk and uncertainty.*<br>
 `1` Quantifying metrics - Probability Theory, Information Theory<br>
@@ -20,16 +20,19 @@ Hi, I'm Prabesh.<br>I did some Physics for my undergrad degree (2017), and then 
 - Jupyter & Mathematica Notebooks
 
 ## Authors, Books and Websites list
-*(This is kind of a to-do list - to remind myself what topics I could write about...) * <br>
-- **Probability + Statistics** - Count Bayesie, AM207 Course, 
+*These are (some of) the interesting authors/books/blogs I've come across.*<br>
+<br>
+- **Probability + Statistics** - 'Count Bayesie', AM207 Course, Bayesian Methods for Hackers
 - **Information Theory** - Claude Shannon, Elements of Information Theory, Kelly Criterion (for gambling + investing)
 - **Machine Learning** - ESL, Paul Willmott's Machine Learning book
 - **Trading + Investing** - anything published by N.N.Taleb, Ed Thorp, M.Spitznagel, R.Dalio, Buffet, Munger + AQR, Winton, Bridgewater.
 - **Medical statistics + Iatrogenesis** - papers on diet science, misuse of correlation, Bad Pharma
-- **Policy decisions** - Use of Knowledge in Society (Hayek), 
+- **Policy decisions** - Use of Knowledge in Society (Hayek)
 - **Neuroscience** - Elkhonon Goldberg (Novelty-routinization)
-- **Complexity** - Stephen Wolfram ('A New Kind of Science')
-- **General** - N.N.Taleb, Naval Ravikant, Paul Graham, Shane Parrish (Farnam Street), J.B.Peterson
+- **Complexity** - Stephen Wolfram ('A New Kind of Science'), Yaneer Bar-Yam
+- **On Writing** - J.B.Peterson (Essay Writing Guide), Paul Graham ('Writing, Briefly'), Orwell ('Politics and the English Language')
+- **Software** - Clean Code, The Mythical Man-Month, Joel on Software, Coding Horror, Kalzumeus.
+- **General** - N.N.Taleb, Naval Ravikant, Paul Graham, Shane Parrish (Farnam Street)
 
 <br>
 
