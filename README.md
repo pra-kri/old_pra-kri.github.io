@@ -1,17 +1,20 @@
 
 # **Notes on Computational Statistics**
 
+
+[Github link](https://github.com/pra-kri)
+<br/>
+[Website link](https://pra-kri.github.io)
+<br/>
+
+
 1234
 <br>
 5678
 <br>
 9101112
 
-[Github link](https://github.com/pra-kri)
-<br/>
-[Website link](https://pra-kri.github.io)
 
-<br/>
 <br/>
 
 Computational Statistics & Machine Learning| Type|
