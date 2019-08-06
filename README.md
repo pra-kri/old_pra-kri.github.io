@@ -20,7 +20,7 @@ Hi, I'm Prabesh.<br><br>I did some Physics for my undergrad degree (2017), and t
 - Jupyter & Mathematica Notebooks
 
 ## Authors, Books and Websites list
-*These are (some of) the interesting authors/books/blogs I've come across.*<br>
+*These are (some of) the interesting authors/researchers/books/blogs I've come across.*<br>
 <br>
 - **Probability + Statistics** - 'Count Bayesie', AM207 Course, Bayesian Methods for Hackers
 - **Information Theory** - Claude Shannon, Elements of Information Theory, Kelly Criterion (for gambling + investing)
