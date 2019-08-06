@@ -20,9 +20,17 @@ Hi, I'm Prabesh.<br>I did some Physics for my undergrad degree (2017), and then 
 - Jupyter & Mathematica Notebooks
 
 ## Authors, Books and Websites list
-*(This is kind of a to-do list - to remind myself what topics I could write about...) *
-- ....
-- ....
+*(This is kind of a to-do list - to remind myself what topics I could write about...) * <br>
+- **Probability + Statistics** - Count Bayesie, AM207 Course, 
+- **Information Theory** - Claude Shannon, Elements of Information Theory, Kelly Criterion (for gambling + investing)
+- **Machine Learning** - ESL, Paul Willmott's Machine Learning book
+- **Trading + Investing** - anything published by N.N.Taleb, Ed Thorp, M.Spitznagel, R.Dalio, Buffet, Munger + AQR, Winton, Bridgewater.
+- **Medical statistics + Iatrogenesis** - papers on diet science, misuse of correlation, Bad Pharma
+- **Policy decisions** - Use of Knowledge in Society (Hayek), 
+- **Neuroscience** - Elkhonon Goldberg (Novelty-routinization)
+- **Complexity** - Stephen Wolfram ('A New Kind of Science')
+- **General** - N.N.Taleb, Naval Ravikant, Paul Graham, Shane Parrish (Farnam Street), J.B.Peterson
+
 <br>
 
 <br/>
