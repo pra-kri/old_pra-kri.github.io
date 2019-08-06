@@ -26,7 +26,7 @@ Hi, I'm Prabesh.<br><br>I did some Physics for my undergrad degree (2017), and t
 - **Information Theory** - Claude Shannon, Elements of Information Theory, Kelly Criterion (for gambling + investing)
 - **Machine Learning** - ESL, Paul Willmott's Machine Learning book
 - **Trading + Investing** - anything published by N.N.Taleb, Ed Thorp, M.Spitznagel, R.Dalio, Buffet, Munger + AQR, Winton, Bridgewater.
-- **Medical statistics + Iatrogenesis** - papers on diet science, misuse of correlation, Bad Pharma
+- **Medical statistics + Iatrogenesis** - papers on diet 'science' (sugar lobbying, the food pyramid), misuse of statistics, Bad Pharma
 - **Policy decisions** - Use of Knowledge in Society (Hayek)
 - **Neuroscience** - Elkhonon Goldberg (Novelty-routinization)
 - **Complexity** - Stephen Wolfram ('A New Kind of Science'), Yaneer Bar-Yam
