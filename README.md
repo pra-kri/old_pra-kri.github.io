@@ -3,16 +3,16 @@
 [Github link](https://github.com/pra-kri)      [Website link](https://pra-kri.github.io)
 <br/>
 ## About
-Two years ago, while I was *supposed* to be studying for my final exams for my undergrad Physics degree, <br>
+Two years ago, while I was *supposed* to be studying for my final exams for my undergrad Physics degree,
 I spent hours and hours a day reading books and papers and watching lectures - on everything **except** Physics.<br>
-To me, reading up on Neuroscience and its link to our day-to-day experiences was much more interesting than Quantum Mechanics. <br>
-The way statistics and probability theory are used in decision-making and risk-taking was much more <br>
-captivating than studying how a bunch of electrons float around and avoid each other as if they all owed each other money.<br>
+To me, reading up on Neuroscience and its link to our day-to-day experiences was much more interesting than Quantum Mechanics.
+The way statistics and probability theory are used in decision-making and risk-taking was much more 
+captivating than studying how a bunch of electrons float around and avoid each other.<br>
 I thought, *why follow the syllabus when instead you can follow your own curiosity?*<br>
 <br>
 This site contains my essays, code and notes regarding all those interesting things I learn about.  <br>
 <br>
-At the most basic level, this is a way for me to show off all the stuff that I've worked on and thought about. <br>
+At the most basic level, this is a way for me to show off all the stuff that I've worked on and thought about.
 That way, maybe I could use this portfolio to get into positions involving research, writing and decision-making. <br>
 <br>
 More importantly, putting material online is a way for me to put a small amount of 'skin in the game'. <br>
@@ -25,17 +25,17 @@ The central idea that I'm curious about: *How to behave under risk, uncertainty 
 * Quantitative metrics - Probability Theory, Information Theory<br>
 * Algorithmic methods - Machine Learning, Computational Statistics<br>
 * Misapplications - Iatrogenesis (Modern diet 'science', 'Bad Pharma'), naive policy decisions<br>
-* Neuroscience - 
+* Neuroscience - <br>
     Hemispheric specialisation (Novelty-routinization). <br>
     Instinct as evolutionary risk-management circuitry. <br>
     Dopamine and its link to uncertainty + exploration. <br>
 * Reduction of Uncertainty - The value of knowing what *not* to do, risk-management, 'traditional wisdom' .<br>
 * Complexity Science - unpredictable behaviour of aggregate large-scale systems not seen in individuals.
 * Strategy - how best to handle uncertainty + changing circumstances in the environment.
-* 'Contrarian' careers - Exploration of uncertain economic/scientific territory, usually where very few people agree <br>
-                         on the value of an opportunity. e.g. Research, Startups, Hedge Funds.<br>
-                         If they all agreed with you, the opportunity would already be taken.
-* Philosophy - Courage: the willing exploration of risk + uncertainty. <br>
+* 'Contrarian' careers - <br>
+Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity. e.g. Research, Startups, Hedge Funds. *If they all agreed with you, the opportunity would already be taken.*
+* Philosophy - <br>
+Courage: the willing exploration of risk + uncertainty. <br>
                Wisdom: the management and constraint of risk + uncertainty. <br>
                Epistemology: *clearly this Prabesh guy has no f\*\*\*ing clue what he's talking about*
                
