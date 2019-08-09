@@ -4,9 +4,9 @@
 <br/>
 
 ## Interests
-The central idea that I'm curious about: *How to behave under risk, uncertainty and chaos.*<br>
+The central idea that I'm curious about: ***How to behave under risk, uncertainty and chaos.***<br>
 
-* **Quantitative methods** - 
+* **Quantitative methods** - <br>
 Probability Theory<br>
 Information Theory<br>
 Machine Learning<br>
