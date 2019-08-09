@@ -26,9 +26,9 @@ The central idea that I'm curious about: *How to behave under risk, uncertainty 
 * **Areas of application** - Quant Trading, Epidemiology + Medical Statistics + Bioinformatics, Data Science <br>
 * **Misapplications** - Iatrogenesis (Modern diet 'science', 'Bad Pharma'), naive policy decisions<br>
 * **Neuroscience** - <br>
-    Hemispheric specialisation (Novelty-routinization). <br>
-    Instinct as evolutionary risk-management circuitry. <br>
-    Dopamine and its link to uncertainty + exploration. <br>
+Hemispheric specialisation (Novelty-routinization). <br>
+Instinct as evolutionary risk-management circuitry. <br>
+Dopamine and its link to uncertainty + exploration. <br>
 * **Reduction of Uncertainty** - The value of knowing what *not* to do, risk-management, 'traditional wisdom' .<br>
 * **Complexity Science** - unpredictable behaviour of aggregate large-scale systems not seen in individuals.
 * **Strategy** - how best to handle uncertainty + changing circumstances in the environment.
@@ -36,8 +36,8 @@ The central idea that I'm curious about: *How to behave under risk, uncertainty 
 Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity. e.g. Research, Startups, Hedge Funds. <br> *If they all agreed with you, the opportunity would already be taken.*
 * **Philosophy** - <br>
 Courage: the willing exploration of risk + uncertainty. <br>
-               Wisdom: the management and constraint of risk + uncertainty. <br>
-               Epistemology: *clearly this Prabesh guy has no f\*\*\*ing clue what he's talking about*
+Wisdom: the management/constraint of risk + uncertainty. <br>
+Epistemology: *clearly this Prabesh guy has no f\*\*\*ing clue what he's talking about*
                
 
 ## Contents (to eventually fill in...)
@@ -47,7 +47,7 @@ Courage: the willing exploration of risk + uncertainty. <br>
 
 ## TODO - Authors, Books and Websites list
 *These are (some of) the interesting authors/researchers/books/blogs I've come across.*<br>
-*TODO - write write write*
+*TODO - write write write (use books to come up with ideas to write about...)*
 <br>
 - **Probability + Statistics** - 'Count Bayesie', AM207 Course, Bayesian Methods for Hackers
 - **Information Theory** - Elements of Information Theory, Kelly Criterion (for gambling + investing)
