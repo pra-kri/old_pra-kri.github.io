@@ -1,5 +1,5 @@
 
-# **Hi, I'm Prabesh K**
+# **Hi, I'm Prabesh**
 [Github link](https://github.com/pra-kri)      [Website link](https://pra-kri.github.io)
 <br/>
 ## About
@@ -8,7 +8,7 @@ I spent hours and hours a day reading books and papers and watching lectures - o
 To me, reading up on Neuroscience and its link to our day-to-day experiences was much more interesting than Quantum Mechanics. <br>
 The way statistics and probability theory are used in decision-making and risk-taking was much more <br>
 captivating than studying how a bunch of electrons float around and avoid each other as if they all owed each other money.<br>
-I thought, *why follow the syllabus when instead you can follow your own curiosity?*
+I thought, *why follow the syllabus when instead you can follow your own curiosity?*<br>
 <br>
 This site contains my essays, code and notes regarding all those interesting things I learn about.  <br>
 <br>
