@@ -25,9 +25,10 @@ The central idea that I'm curious about: *How to behave under risk, uncertainty 
 * Quantitative metrics - Probability Theory, Information Theory<br>
 * Algorithmic methods - Machine Learning, Computational Statistics<br>
 * Misapplications - Iatrogenesis (Modern diet 'science', 'Bad Pharma'), naive policy decisions<br>
-* Neuroscience - Hemispheric specialisation (Novelty-routinization). <br>
-                     Instinct as evolutionary risk-management circuitry. <br>
-                     Dopamine and its link to uncertainty + exploration. <br>
+* Neuroscience - 
+    Hemispheric specialisation (Novelty-routinization). <br>
+    Instinct as evolutionary risk-management circuitry. <br>
+    Dopamine and its link to uncertainty + exploration. <br>
 * Reduction of Uncertainty - The value of knowing what *not* to do, risk-management, 'traditional wisdom' .<br>
 * Complexity Science - unpredictable behaviour of aggregate large-scale systems not seen in individuals.
 * Strategy - how best to handle uncertainty + changing circumstances in the environment.
