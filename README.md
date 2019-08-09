@@ -12,8 +12,7 @@ I thought, *why follow the syllabus when instead you can follow your own curiosi
 <br>
 This site contains my essays, code and notes regarding all those interesting things I learn about.  <br>
 <br>
-At the most basic level, this is a way for me to show off all the stuff that I've worked on and thought about.
-That way, maybe I could use this portfolio to get into positions involving research, writing and decision-making. <br>
+At the most basic level, this is a way for me to show off all the stuff that I've worked on and thought about. That way, maybe I could use this portfolio to get into positions involving research, writing and decision-making. <br>
 <br>
 More importantly, putting material online is a way for me to put a small amount of 'skin in the game'. <br>
 A badly written essay or notebook might just come back to bite me, reputationally or otherwise. <br>
@@ -21,20 +20,21 @@ A badly written essay or notebook might just come back to bite me, reputationall
 
 ## Interests
 The central idea that I'm curious about: *How to behave under risk, uncertainty and chaos.*<br>
-* Areas of application - Quant Trading, Epidemiology + Medical Statistics + Bioinformatics, Data Science <br>
-* Quantitative metrics - Probability Theory, Information Theory<br>
-* Algorithmic methods - Machine Learning, Computational Statistics<br>
-* Misapplications - Iatrogenesis (Modern diet 'science', 'Bad Pharma'), naive policy decisions<br>
-* Neuroscience - <br>
+
+* **Quantitative metrics** - Probability Theory, Information Theory<br>
+* **Algorithmic methods** - Machine Learning, Computational Statistics<br>
+* **Areas of application** - Quant Trading, Epidemiology + Medical Statistics + Bioinformatics, Data Science <br>
+* **Misapplications** - Iatrogenesis (Modern diet 'science', 'Bad Pharma'), naive policy decisions<br>
+* **Neuroscience** - <br>
     Hemispheric specialisation (Novelty-routinization). <br>
     Instinct as evolutionary risk-management circuitry. <br>
     Dopamine and its link to uncertainty + exploration. <br>
-* Reduction of Uncertainty - The value of knowing what *not* to do, risk-management, 'traditional wisdom' .<br>
-* Complexity Science - unpredictable behaviour of aggregate large-scale systems not seen in individuals.
-* Strategy - how best to handle uncertainty + changing circumstances in the environment.
-* 'Contrarian' careers - <br>
-Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity. e.g. Research, Startups, Hedge Funds. *If they all agreed with you, the opportunity would already be taken.*
-* Philosophy - <br>
+* **Reduction of Uncertainty** - The value of knowing what *not* to do, risk-management, 'traditional wisdom' .<br>
+* **Complexity Science** - unpredictable behaviour of aggregate large-scale systems not seen in individuals.
+* **Strategy** - how best to handle uncertainty + changing circumstances in the environment.
+* **'Contrarian' careers** - <br>
+Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity. e.g. Research, Startups, Hedge Funds. <br> *If they all agreed with you, the opportunity would already be taken.*
+* **Philosophy** - <br>
 Courage: the willing exploration of risk + uncertainty. <br>
                Wisdom: the management and constraint of risk + uncertainty. <br>
                Epistemology: *clearly this Prabesh guy has no f\*\*\*ing clue what he's talking about*
@@ -55,7 +55,7 @@ Courage: the willing exploration of risk + uncertainty. <br>
 - **Trading + Investing** - anything published by N.N.Taleb, Ed Thorp, M.Spitznagel, R.Dalio, Buffet, Munger + AQR, Winton, Bridgewater.
 - **Medical statistics + Iatrogenesis** - papers on diet 'science' (sugar lobbying, the food pyramid), misuse of statistics, Bad Pharma
 - **Policy decisions** - Use of Knowledge in Society (Hayek)
-- **Neuroscience** - Elkhonon Goldberg, JBP Maps of Meaning, 
+- **Neuroscience** - Elkhonon Goldberg, JBP Maps of Meaning
 - **Complexity** - Stephen Wolfram ('A New Kind of Science'), Yaneer Bar-Yam
 - **On Writing** - J.B.Peterson (Essay Writing Guide), Paul Graham ('Writing, Briefly'), Orwell ('Politics and the English Language')
 - **Software** - Clean Code, The Mythical Man-Month, Joel on Software, Coding Horror, Kalzumeus, Paul Graham.
