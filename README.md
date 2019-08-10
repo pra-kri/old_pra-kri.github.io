@@ -4,7 +4,7 @@
 <br/>
 
 ## Interests
-The central idea that I'm curious about: ***How to behave under risk, uncertainty and chaos.***<br>
+The central idea that I'm curious about: ***Decision-making under uncertainty.***<br>
 
 * **Quantitative methods** - <br>
 Probability Theory<br>
@@ -15,7 +15,7 @@ Complexity Science<br>
 * **Misapplications** - Iatrogenesis (Modern diet 'science', 'Bad Pharma'), naive policy decisions<br>
 * **Reduction of Risk & Uncertainty** - The value of knowing what *not* to do, risk-management, 'traditional wisdom' .<br>
 * **Neuroscience** - <br>
-Hemispheric specialisation ( + Novelty-routinization). <br>
+Hemispheric specialisation (Novelty-routinization). <br>
 Instinct as evolutionary risk-management. <br>
 Dopamine and its link to uncertainty + exploration. <br>
 * **'Contrarian' careers** - <br>
