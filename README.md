@@ -5,11 +5,13 @@ Hi, my name is Prabesh. **Welcome to my portfolio/blog on decision-making, uncer
 I don't want to bore you with details about my work or academic background - I doubt it would add any value or flair to the site. Instead, I thought it would be fun to talk about *why* I decided to make this page.<br> <br>
 A lot of my personal heroes in life are great writers and professors: men who were wise and knowledgeable, and who had the courage to step forward and talk about important, difficult topics. Many of them had contrarian, socially unacceptable views within their fields. In some cases, it wasn't just a contrarian opinion within a field - it was a dangerous opinion under a totalitarian government.<br> <br> 
 In a way, they followed the Socratic ideal of ***taking risks and paying the price for their opinions***. They weren't conflict-averse nerds who hid in the library. But they also weren't blind risk-takers who had no wisdom or intelligence. They had courage *and* wisdom.<br> <br>
-Maybe one day, if I try my best, I could be a bit like that. <br><br>
-But before I get there... <br>
-I need to learn how to write and speak clearly - otherwise who would listen to me?<br>
-I need to learn more about all the topics I find interesting - otherwise what can I talk about?<br>
-I need to be able to filter through ideas to get to the essential principles at their core - otherwise, do I really understand the subject?
+Maybe one day, if I try my best, I could be a bit like that. 
+<br><br>
+But before I get there, I'd need to pick up a few bits of knowledge...
+* I need to learn how  to write + speak clearly. Otherwise, I'd be boring to listen to.
+* I need to learn more about all the topics I find interesting. Otherwise, I'll have no knowledge; nothing to talk about. Who would ever want to listen to someone who never followed their own curiosity?
+* I need to be able to filter through ideas, to get to the core principles of a subject. Otherwise, do I really understand the material? 
+
 <br> <br>
 This site is my attempt at working towards all of that. 
 <br>
