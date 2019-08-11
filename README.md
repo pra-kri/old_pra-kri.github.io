@@ -14,7 +14,7 @@ I need to be able to filter through ideas to get to the essential principles at 
 And this site is my attempt at working towards all of that. 
 <br>
 
-## Interests
+# Interests
 The central idea that I'm curious about: <br>
 ***Decision-making under uncertainty. How should you act in the face of the unknown?***<br>
 
@@ -30,7 +30,7 @@ The central idea that I'm curious about: <br>
 
 
 
-## Contents (to eventually fill in...)
+# Contents (to eventually fill in...)
 - Essays
 - Notes (on books & research-papers)
 - Jupyter & Mathematica Notebooks
