@@ -1,7 +1,7 @@
 
 # **About me**
 <br/>
-Hi, my name is Prabesh. **Welcome to my portfolio/blog on decision-making, uncertainty and other (*hopefully*) interesting topics.** <br> <br>
+Hi, my name is Prabesh. **Welcome to my portfolio/blog on decision-making, uncertainty and other interesting topics.** <br> <br>
 I don't want to bore you with details about my work or academic background - I doubt it would add any value or flair to the site. Instead, I thought it would be fun to talk about *why* I decided to make this page.<br> <br>
 A lot of my personal heroes in life are great writers and professors: men who were wise and knowledgeable, and who had the courage to step forward and talk about important, difficult topics. Many of them had contrarian, socially unacceptable views within their fields. In some cases, it wasn't just a contrarian opinion within a field - it was a dangerous opinion under a totalitarian government.<br> <br> 
 In a way, they lived out the Socratic ideal of ***taking risks and paying the price for their opinions***. They weren't conflict-averse nerds who hid in the library. But they also weren't blind risk-takers who had no wisdom or intelligence. They had courage *and* wisdom.<br> <br>
@@ -11,7 +11,7 @@ I need to learn how to write and speak clearly - otherwise who would listen to m
 I need to learn more about all the topics I find interesting - otherwise what can I talk about?<br>
 I need to be able to filter through ideas to get to the essential principles at their core - otherwise, do I really understand the subject?
 <br> <br>
-And this site is my attempt at working towards all of that. 
+This site is my attempt at working towards all of that. 
 <br>
 
 # Interests
@@ -72,7 +72,12 @@ The central idea that I'm curious about: <br>
 
 <br/>
 
-
 [Github link](https://github.com/pra-kri)   .....   [Website link](https://pra-kri.github.io)
+
+# Actual bio...
+* 1995 - born in London
+* 2014 to 2017 - BA Physics, University of Oxford
+* 2017 to 2019 - Working mostly with Python in multiple roles. (Developer, IT Consultant/Business Analyst)
+* 2019 to 2020 - Will be starting my MSc in Computer Science at Warwick.
 
 
