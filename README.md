@@ -12,7 +12,7 @@ The central idea that I'm curious about: ***Decision-making under uncertainty.**
 |**Areas of Application**| Quant. Trading <br>Epidemiology + Medical Statistics + Bioinformatics |
 |**Misapplications**| Iatrogenesis (Modern diet 'science', 'Bad Pharma'), Naive policy decisions|
 |**Uncertainty + Risk Reduction**| The value of knowing what *not* to do, Risk-management|
-|**Neuroscience**| Hemishperic specialisation + Novelty routinization, Dopamine + link to uncertainty & exploration|
+|**Neuroscience**| Hemispheric specialisation + Novelty routinization<br>Dopamine (link to uncertainty, exploration & reinforcement learning)|
 |**'Contrarian' Careers**|Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity. e.g. Research, Startups, Hedge Funds. <br> *If they all agreed with you, the opportunity would already be taken.*<br>|
 
 
