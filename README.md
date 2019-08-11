@@ -6,23 +6,13 @@
 ## Interests
 The central idea that I'm curious about: ***Decision-making under uncertainty.***<br>
 
-* **Quantitative methods** - <br>
-Probability Theory<br>
-Information Theory<br>
-Machine Learning<br>
-Complexity Science<br>
+* **Quantitative methods** - Probability Theory, Information Theory, Machine Learning, Complexity Science, 
 * **Areas of application** - Quant Trading, Epidemiology + Medical Statistics + Bioinformatics <br>
 * **Misapplications** - Iatrogenesis (Modern diet 'science', 'Bad Pharma'), naive policy decisions<br>
-* **Reduction of Risk & Uncertainty** - The value of knowing what *not* to do, risk-management, 'traditional wisdom' .<br>
-* **Neuroscience** - <br>
-Hemispheric specialisation (Novelty-routinization). <br>
-Instinct as evolutionary risk-management. <br>
-Dopamine and its link to uncertainty + exploration. <br>
+* **Reduction of Risk & Uncertainty** - The value of knowing what *not* to do, risk-management.<br>
+* **Neuroscience** - Hemispheric specialisation (Novelty-routinization), Dopamine link to uncertainty + exploration <br>
 * **'Contrarian' careers** - <br>
 Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity. e.g. Research, Startups, Hedge Funds. <br> *If they all agreed with you, the opportunity would already be taken.*
-* **Philosophy** - <br>
-Courage: the willing exploration of risk + uncertainty. <br>
-Wisdom: the management/constraint of risk + uncertainty. <br>
 
 
 ## Contents (to eventually fill in...)
