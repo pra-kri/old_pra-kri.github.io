@@ -18,16 +18,82 @@ This site is my attempt at working towards all of that.
 The central idea that I'm curious about: <br>
 ***Decision-making under uncertainty. How should you act in the face of the unknown?***<br>
 
-|  | Areas of Interest |
-| --- | --- |
-|**Quantitative Methods**| Probability Theory <br>Information Theory<br>Machine Learning<br>Complexity|
-|**Areas of Application**| Quant. Trading <br>Epidemiology + Medical Statistics + Bioinformatics <br>Operations Research |
-|**Misapplications**| Iatrogenesis (Modern diet 'science', 'Bad Pharma')<br>Naive policy decisions<br>Lying with statistics|
-|**Uncertainty + Risk Reduction**| Risk management - the value of knowing what *not* to do. <br>Signal vs noise, 80/20 - the value of knowing what to ignore.|
-|**Neuroscience**| Hemispheric specialization + Novelty routinization<br>Dopamine (link to uncertainty, exploration & reinforcement learning)<br>|
-|**History, Mythology, Ethics, Literature**| Exploration of the unknown - *Maps of Meaning*, *The Hero With a Thousand Faces*.<br> Culture + tradition as historically embedded knowledge/risk-management. <br>Ethics - 'sin of omission', esp. regarding potential & risk.|
-|**'Contrarian' Careers**|Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity. <br> e.g. Research, Startups, Hedge Funds. <br> *If they all agreed with you, the opportunity would already be taken.*<br>|
-
+<table>
+  <tbody>
+    <tr>
+      <th> </th>
+      <th>Areas of Interest</th>
+    </tr>
+    <tr>
+      <td><strong>Quantitative Methods</strong></td>
+      <td>
+        <ul>
+          <li>Probability Theory</li>
+          <li>Information Theory</li>
+          <li>Machine Learning</li>
+          <li>Complexity</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Areas of Application</strong></td>
+      <td>
+        <ul>
+          <li>Quant Trading</li>
+          <li>Medical statistics + Epidemiology</li>
+          <li>Operations Research</li>
+          <li>Data Science</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Misapplications</strong></td>
+      <td>
+        <ul>
+          <li>Iatrogenesis (modern diet 'science', 'Bad Pharma')</li>
+          <li>Naive policy decisions + lying with statistics</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+     <td><strong>Uncertainty + Risk Reduction</strong></td>
+      <td>
+        <ul>
+          <li>Risk Management - the value of knowing what not to do.</li>
+          <li>Signal vs. Noise - 80/20, the value of knowing what to ignore.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+     <td><strong>Neuroscience</strong></td>
+      <td>
+        <ul>
+          <li>Hemispheric specialisation + novelty-routinization</li>
+          <li>Dopamine - link to uncertainty, exploration, reinforcement learning</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+     <td><strong>History, Mythology, Ethics, Literature</strong></td>
+      <td>
+        <ul>
+          <li>Exploration of the unknown - <i>Maps of Meaning</i>, <i>The Hero With a Thousand Faces</i>.</li>
+          <li>Culture and Tradition - as historically embedded knowledge/risk-management </li>
+          <li>Ethics - <i>'sin of omission'</i>, especially regarding potential + risk.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+     <td><strong>'Contrarian Careers</strong></td>
+      <td>
+        <ul>
+          <li>Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity.<br> e.g. Research, Startups, Hedge Funds </li>
+          <li><i>If they all agreed with you, the opportunity would already be taken.<i></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Contents (to eventually fill in...)
 - Essays
