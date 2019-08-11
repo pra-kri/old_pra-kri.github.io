@@ -1,6 +1,5 @@
 
 # **About me**
-[Github link](https://github.com/pra-kri)   .....   [Website link](https://pra-kri.github.io)
 <br/>
 Hi, my name is Prabesh. **Welcome to my portfolio/blog on decision-making, uncertainty and other (*hopefully*) interesting topics.** <br> <br>
 I don't want to bore you with too many details about my work history or my academic background - I doubt it would add much value or flair to the site. Instead, I thought it would be fun to talk about *why* I decided to make this page.<br> <br>
@@ -67,6 +66,6 @@ The central idea that I'm curious about: ***Decision-making under uncertainty.**
 <br/>
 
 
-
+[Github link](https://github.com/pra-kri)   .....   [Website link](https://pra-kri.github.io)
 
 
