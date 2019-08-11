@@ -8,8 +8,8 @@ In a way, they lived out the Socratic ideal of ***taking risks and paying the pr
 Maybe one day, if I try my best, I could be a bit like that. <br><br>
 But before I get there... <br>
 I need to learn how to write and speak clearly - otherwise who would listen to me?<br>
-And I need to learn more about all the topics I find interesting - otherwise what can I talk about?<br>
-And I need to be able to filter through ideas to get to the essential principles at their core - otherwise, do I really understand the subject?
+I need to learn more about all the topics I find interesting - otherwise what can I talk about?<br>
+I need to be able to filter through ideas to get to the essential principles at their core - otherwise, do I really understand the subject?
 <br> <br>
 And this site is my attempt at working towards this.
 <br>
