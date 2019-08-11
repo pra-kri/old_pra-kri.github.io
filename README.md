@@ -14,7 +14,6 @@ I need to be able to filter through ideas to get to the essential principles at 
 And this site is my attempt at working towards all of that. 
 <br>
 
-
 ## Interests
 The central idea that I'm curious about: ***Decision-making under uncertainty. How should you act in the face of the unknown?***<br>
 
