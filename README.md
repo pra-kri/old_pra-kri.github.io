@@ -36,7 +36,7 @@ The central idea that I'm curious about: ***Decision-making under uncertainty. H
 
 <br>
 
-### Jupyter Notebooks + Code
+#### Jupyter Notebooks + Code
 
 | Topic | Title | Type |
 | --- | --- | --- |
@@ -45,7 +45,7 @@ The central idea that I'm curious about: ***Decision-making under uncertainty. H
 
 <br>
 
-### Essays
+#### Essays
 
 | Topic | Title | Type |
 | --- | --- | --- |
