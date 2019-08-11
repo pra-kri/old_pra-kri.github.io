@@ -35,6 +35,7 @@ The central idea that I'm curious about: ***Decision-making under uncertainty. H
 - Jupyter & Mathematica Notebooks
 
 <br>
+
 ### Jupyter Notebooks + Code
 
 | Topic | Title | Type |
@@ -43,6 +44,7 @@ The central idea that I'm curious about: ***Decision-making under uncertainty. H
 | Statistics | [Exploring Correlation of Non-Random Subsamples](https://pra-kri.github.io/projects/correlation_nonadditivity/corr_project) | .ipynb |
 
 <br>
+
 ### Essays
 
 | Topic | Title | Type |
