@@ -7,13 +7,12 @@ A lot of my personal heroes in life are great writers and professors: men who we
 In a way, they followed the Socratic ideal of ***taking risks and paying the price for their opinions***. They weren't conflict-averse nerds who hid in the library. But they also weren't blind risk-takers who had no wisdom or intelligence. They had courage *and* wisdom.<br> <br>
 Maybe one day, if I try my best, I could be a bit like that. 
 <br><br>
-But before I get there, I'd need to pick up a few bits of knowledge...
-* I need to learn how  to write + speak clearly. Otherwise, I'd be boring to listen to.
-* I need to learn more about all the topics I find interesting. Otherwise, I'll have no knowledge; nothing to talk about. Who would ever want to listen to someone who never followed their own curiosity?
+But if I'm serious about getting there, I'd need to learn a few things...
+* I need to learn how  to write + speak clearly.
+* I need to learn more about all the topics I find interesting. Otherwise, I'll have nothing to talk about.
 * I need to be able to filter through ideas, to get to the core principles of a subject. Otherwise, do I really understand the material? 
-
 <br> <br>
-This site is my attempt at working towards all of that. 
+This site is my attempt at working towards some of that.
 <br>
 
 # Interests
@@ -144,6 +143,7 @@ The central idea that I'm curious about: <br>
 [Github link](https://github.com/pra-kri)   .....   [Website link](https://pra-kri.github.io)
 
 # Actual bio...
+Prabesh Krishnakumar
 * 1995 - born in London
 * 2014 to 2017 - BA Physics, University of Oxford
 * 2017 to 2019 - Working mostly with Python in multiple roles. (Developer, IT Consultant/Business Analyst)
