@@ -3,7 +3,7 @@
 <br/>
 Hi, my name is Prabesh. **Welcome to my portfolio/blog on decision-making, uncertainty and other (*hopefully*) interesting topics.** <br> <br>
 I don't want to bore you with details about my work or academic background - I doubt it would add any value or flair to the site. Instead, I thought it would be fun to talk about *why* I decided to make this page.<br> <br>
-A lot of my personal heroes throughout life have been great writers and professors: men who were wise and knowledgeable, and who had the courage to step forward and talk about important, difficult topics. Many of them had contrarian, socially unacceptable views within their fields. In some cases, it wasn't just a contrarian opinion within a field - it was a dangerous opinion under a totalitarian government.<br> <br> 
+A lot of my personal heroes in life are great writers and professors: men who were wise and knowledgeable, and who had the courage to step forward and talk about important, difficult topics. Many of them had contrarian, socially unacceptable views within their fields. In some cases, it wasn't just a contrarian opinion within a field - it was a dangerous opinion under a totalitarian government.<br> <br> 
 In a way, they lived out the Socratic ideal of ***taking risks and paying the price for their opinions***. They weren't conflict-averse nerds who hid in the library. But they also weren't blind risk-takers who had no wisdom or intelligence. They had courage *and* wisdom.<br> <br>
 Maybe one day, if I try my best, I could be a bit like that. <br><br>
 But before I get there... <br>
@@ -23,10 +23,10 @@ The central idea that I'm curious about: <br>
 |**Quantitative Methods**| Probability Theory <br>Information Theory<br>Machine Learning<br>Complexity|
 |**Areas of Application**| Quant. Trading <br>Epidemiology + Medical Statistics + Bioinformatics <br>Operations Research |
 |**Misapplications**| Iatrogenesis (Modern diet 'science', 'Bad Pharma')<br>Naive policy decisions<br>Lying with statistics|
-|**Uncertainty + Risk Reduction**| The value of knowing what *not* to do, Risk management|
-|**Neuroscience**| Hemispheric specialisation + Novelty routinization<br>Dopamine (link to uncertainty, exploration & reinforcement learning)<br>|
-|**History, Mythology, Literature**| *The Hero With a Thousand Faces*, *Maps of Meaning* - exploration of the unknown<br> Culture + Tradition as historically embedded risk-management|
-|**'Contrarian' Careers**|Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity. e.g. Research, Startups, Hedge Funds. <br> *If they all agreed with you, the opportunity would already be taken.*<br>|
+|**Uncertainty + Risk Reduction**| Risk management - the value of knowing what *not* to do. <br>Signal vs noise, 80/20 - the value of knowing what to ignore.|
+|**Neuroscience**| Hemispheric specialization + Novelty routinization<br>Dopamine (link to uncertainty, exploration & reinforcement learning)<br>|
+|**History, Mythology, Literature**| Exploration of the unknown - *The Hero With a Thousand Faces*, *Maps of Meaning*.<br> Culture + tradition as historically embedded knowledge/risk-management.|
+|**'Contrarian' Careers**|Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity. <br> e.g. Research, Startups, Hedge Funds. <br> *If they all agreed with you, the opportunity would already be taken.*<br>|
 
 
 
