@@ -6,27 +6,30 @@
 ## Interests
 The central idea that I'm curious about: ***Decision-making under uncertainty.***<br>
 
-* **Quantitative methods** - Probability Theory, Information Theory, Machine Learning, Complexity<br> 
-* **Areas of application** - Quant Trading, Epidemiology + Medical Statistics + Bioinformatics <br>
-* **Misapplications** - Iatrogenesis (Modern diet 'science', 'Bad Pharma'), naive policy decisions<br>
-* **Reduction of Risk & Uncertainty** - The value of knowing what *not* to do, risk-management.<br>
-* **Neuroscience** - Hemispheric specialisation (Novelty-routinization), Dopamine link to uncertainty <br>
-* **'Contrarian' careers** - <br>
-Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity. e.g. Research, Startups, Hedge Funds. <br> *If they all agreed with you, the opportunity would already be taken.*
+|  | Areas of Interest |
+| --- | --- |
+|**Quantitative Methods**| Probability Theory <br>Information Theory<br>Machine Learning<br>Complexity|
+|**Areas of Application**| Quant. Trading <br>Epidemiology + Medical Statistics + Bioinformatics |
+|**Misapplications**| Iatrogenesis (Modern diet 'science', 'Bad Pharma'), Naive policy decisions|
+|**Uncertainty + Risk Reduction**| The value of knowing what *not* to do, Risk-management|
+|**Neuroscience**| Hemishperic specialisation + Novelty routinization, Dopamine + link to uncertainty & exploration|
+|**'Contrarian' Careers**|Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity. e.g. Research, Startups, Hedge Funds. <br> *If they all agreed with you, the opportunity would already be taken.*<br>|
+
 
 
 ## Contents (to eventually fill in...)
 - Essays
 - Notes (on books & research-papers)
 - Jupyter & Mathematica Notebooks
+
 <br>
 
 | Topic | Computational Statistics & Machine Learning | Type |
 | --- | --- | --- |
 | Machine Learning | [Employee Churn Predictive Modelling - HR Data (from Kaggle) ](https://pra-kri.github.io/projects/ML_HR_analytics/HR_analytics_notebook) | .ipynb |
 | Statistics | [Exploring Correlation of Non-Random Subsamples](https://pra-kri.github.io/projects/correlation_nonadditivity/corr_project) | .ipynb |
-<br>
 
+<br>
 
 ## TODO - Authors, Books and Websites list
 *These are (some of) the interesting authors/researchers/books/blogs I've come across.*<br>
