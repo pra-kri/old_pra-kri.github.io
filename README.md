@@ -84,23 +84,25 @@ The central idea that I'm curious about: <br>
       </td>
     </tr>
     <tr>
-     <td><strong>'Contrarian Careers</strong></td>
+     <td><strong>'Contrarian' Careers</strong></td>
       <td>
         <ul>
-          <li>Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity.<br> e.g. Research, Startups, Hedge Funds </li>
-          <li><i>If they all agreed with you, the opportunity would already be taken.<i></li>
+          <li>Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity.<br></br> e.g. Research, Startups, Hedge Funds </li>
+          <li><i>If they all agreed with you, the opportunity would already be taken.</i></li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
+
+
 # Contents (to eventually fill in...)
 - Essays
 - Notes (on books & research-papers)
 - Jupyter & Mathematica Notebooks
 
-<br>
+<br></br>
 
 #### Jupyter Notebooks + Code
 
