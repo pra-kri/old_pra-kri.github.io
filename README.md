@@ -30,6 +30,7 @@ Wisdom: the management/constraint of risk + uncertainty. <br>
 - Notes (on books & research-papers)
 - Jupyter & Mathematica Notebooks
 <br>
+
 | Topic | Computational Statistics & Machine Learning | Type |
 | --- | --- | --- |
 | Machine Learning | [Employee Churn Predictive Modelling - HR Data (from Kaggle) ](https://pra-kri.github.io/projects/ML_HR_analytics/HR_analytics_notebook) | .ipynb |
