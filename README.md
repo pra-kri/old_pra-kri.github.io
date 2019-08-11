@@ -27,8 +27,14 @@ Wisdom: the management/constraint of risk + uncertainty. <br>
 
 ## Contents (to eventually fill in...)
 - Essays
-- Notes & Summaries
+- Notes (on books & research-papers)
 - Jupyter & Mathematica Notebooks
+<br>
+Topic | Computational Statistics & Machine Learning|Type|
+------|-------------------------------------- |-------|
+Machine Learning | [Employee Churn Predictive Modelling - HR Data (from Kaggle) ](https://pra-kri.github.io/projects/ML_HR_analytics/HR_analytics_notebook)| .ipynb|
+Statistics | [Exploring Correlation of Non-Random Subsamples](https://pra-kri.github.io/projects/correlation_nonadditivity/corr_project)|.ipynb|
+
 
 ## TODO - Authors, Books and Websites list
 *These are (some of) the interesting authors/researchers/books/blogs I've come across.*<br>
@@ -50,23 +56,7 @@ Wisdom: the management/constraint of risk + uncertainty. <br>
 
 <br/>
 
-Computational Statistics & Machine Learning| Type|
--------------------------------------- |-------|
-[Employee Churn Predictive Modelling - HR Data (from Kaggle) ](https://pra-kri.github.io/projects/ML_HR_analytics/HR_analytics_notebook)| .ipynb|
-[Exploring Correlation of Non-Random Subsamples](https://pra-kri.github.io/projects/correlation_nonadditivity/corr_project)|.ipynb|
 
 
-<br/>
-<br/>
 
-Interesting Algorithms                                 | 
--------------------------------------- | 
-empty | 
-
-<br/>
-<br/>
-
-Other Notes                                | 
--------------------------------------- | 
-empty | 
 
