@@ -25,7 +25,7 @@ The central idea that I'm curious about: <br>
 |**Misapplications**| Iatrogenesis (Modern diet 'science', 'Bad Pharma')<br>Naive policy decisions<br>Lying with statistics|
 |**Uncertainty + Risk Reduction**| Risk management - the value of knowing what *not* to do. <br>Signal vs noise, 80/20 - the value of knowing what to ignore.|
 |**Neuroscience**| Hemispheric specialization + Novelty routinization<br>Dopamine (link to uncertainty, exploration & reinforcement learning)<br>|
-|**History, Mythology, Ethics, Literature**| Exploration of the unknown - *Maps of Meaning*, *The Hero With a Thousand Faces*.<br> Culture + tradition as historically embedded knowledge/risk-management. <br>Ethics - 'sin of omission', potential, risk.|
+|**History, Mythology, Ethics, Literature**| Exploration of the unknown - *Maps of Meaning*, *The Hero With a Thousand Faces*.<br> Culture + tradition as historically embedded knowledge/risk-management. <br>Ethics - 'sin of omission', esp. regarding potential & risk.|
 |**'Contrarian' Careers**|Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity. <br> e.g. Research, Startups, Hedge Funds. <br> *If they all agreed with you, the opportunity would already be taken.*<br>|
 
 
