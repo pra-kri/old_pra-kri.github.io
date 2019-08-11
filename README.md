@@ -15,8 +15,6 @@ And this site is my attempt at working towards this.
 <br>
 
 
-
-
 ## Interests
 The central idea that I'm curious about: ***Decision-making under uncertainty.***<br>
 
