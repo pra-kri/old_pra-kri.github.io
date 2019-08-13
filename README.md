@@ -23,10 +23,12 @@ The central idea that I'm curious about: <br>
   <tbody>
     <tr>
       <th> </th>
+      <th></th>
       <th>Areas of Interest</th>
     </tr>
     <tr>
       <td><strong>Quantitative Methods</strong></td>
+      <td><i>Quantitative tools to deal with uncertainty.</i></td>
       <td>
         <ul>
           <li>Probability Theory</li>
@@ -38,6 +40,7 @@ The central idea that I'm curious about: <br>
     </tr>
     <tr>
       <td><strong>Areas of Application</strong></td>
+      <td><i>Areas where dealing with uncertainty is important.</i></td>
       <td>
         <ul>
           <li>Quant Trading</li>
@@ -49,6 +52,7 @@ The central idea that I'm curious about: <br>
     </tr>
     <tr>
       <td><strong>Misapplications</strong></td>
+      <td><i>How to deal with uncertainty like an idiot.</i></td>
       <td>
         <ul>
           <li>Iatrogenesis (modern diet 'science', 'Bad Pharma')</li>
@@ -58,6 +62,7 @@ The central idea that I'm curious about: <br>
     </tr>
     <tr>
      <td><strong>Uncertainty + Risk Reduction</strong></td>
+      <td><i>Avoiding/ignoring things to reduce uncertainty.</i></td>
       <td>
         <ul>
           <li>Risk Management - the value of knowing what not to do.</li>
@@ -67,6 +72,7 @@ The central idea that I'm curious about: <br>
     </tr>
     <tr>
      <td><strong>Neuroscience</strong></td>
+      <td><i>How the brain deals with uncertainty + novelty.</i></td>
       <td>
         <ul>
           <li>Hemispheric specialisation + novelty-routinization</li>
@@ -76,16 +82,18 @@ The central idea that I'm curious about: <br>
     </tr>
     <tr>
      <td><strong>History, Mythology, Ethics, Literature</strong></td>
+      <td><i>Cultural/ethical/behavioural approaches to dealing with uncertainty.</i></td>
       <td>
         <ul>
           <li>Exploration of the unknown - <i>Maps of Meaning</i>, <i>The Hero With a Thousand Faces</i>.</li>
-          <li>Culture and Tradition - as historically embedded knowledge/risk-management </li>
+          <li>Culture and Tradition - as historically embedded knowledge/risk-management.</li>
           <li>Ethics - <i>'sin of omission'</i>, especially regarding potential + risk.</li>
         </ul>
       </td>
     </tr>
     <tr>
      <td><strong>'Contrarian' Careers</strong></td>
+      <td><i>Careers where you are rewarded for correctly disagreeing with the consensus. Lots of uncertainty + risk involved.</i></td>
       <td>
         <ul>
           <li>Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity.<br>e.g. Research, Startups, Hedge Funds </li>
