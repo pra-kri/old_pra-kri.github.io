@@ -1,108 +1,35 @@
-
-# **About me**
-<br/>
-Hi, my name is Prabesh. **Welcome to my portfolio/blog on decision-making, uncertainty and other interesting topics.** <br> <br>
-I don't want to bore you with details about my work or academic background - I doubt it would add any value or flair to the site. Instead, I thought it would be fun to talk about *why* I decided to make this page.<br> <br>
-A lot of my personal heroes in life are great writers and professors: men who were wise and knowledgeable, and who had the courage to step forward and talk about important, difficult topics. Many of them had contrarian, socially unacceptable views within their fields. In some cases, it wasn't just a contrarian opinion within a field - it was a dangerous opinion under a totalitarian government.<br> <br> 
-In a way, they followed the Socratic ideal of ***taking risks and paying the price for their opinions***. They weren't conflict-averse nerds who hid in the library. But they also weren't blind risk-takers who had no wisdom or intelligence. They had courage *and* wisdom.<br> <br>
-Maybe one day, if I try my best, I could be a bit like that. 
-<br><br>
-But if I'm serious about getting there, I'd need to learn a few things...
-* I need to learn how  to write + speak clearly.
-* I need to learn more about all the topics I find interesting. Otherwise, I'll have nothing to talk about.
-* I need to be able to filter through ideas, to get to the core principles of a subject. Otherwise, do I really understand the material? 
-<br> <br>
-This site is my attempt at working towards some of that.
-<br>
-
 # Interests
 The central idea that I'm curious about: <br>
 ***Decision-making under uncertainty. How should you act in the face of the unknown?***<br>
 
-<table>
-  <tbody>
-    <tr>
-      <th> </th>
-      <th></th>
-      <th>Areas of Interest</th>
-    </tr>
-    <tr>
-      <td><strong>Quantitative Methods</strong></td>
-      <td><i>Quantitative tools to deal with uncertainty.</i></td>
-      <td>
-        <ul>
-          <li>Probability Theory</li>
-          <li>Information Theory</li>
-          <li>Machine Learning</li>
-          <li>Complexity</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Areas of Application</strong></td>
-      <td><i>Areas where dealing with uncertainty is important.</i></td>
-      <td>
-        <ul>
-          <li>Quant Trading</li>
-          <li>Medical statistics + Epidemiology</li>
-          <li>Operations Research</li>
-          <li>Data Science</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Misapplications</strong></td>
-      <td><i>How to deal with uncertainty like an idiot.</i></td>
-      <td>
-        <ul>
-          <li>Iatrogenesis (modern diet 'science', 'Bad Pharma')</li>
-          <li>Naive policy decisions + lying with statistics</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-     <td><strong>Uncertainty + Risk Reduction</strong></td>
-      <td><i>Avoiding/ignoring things to reduce uncertainty.</i></td>
-      <td>
-        <ul>
-          <li>Risk Management - the value of knowing what not to do.</li>
-          <li>Signal vs. Noise - 80/20, the value of knowing what to ignore.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-     <td><strong>Neuroscience</strong></td>
-      <td><i>How the brain deals with uncertainty + novelty.</i></td>
-      <td>
-        <ul>
-          <li>Hemispheric specialisation + novelty-routinization</li>
-          <li>Dopamine - link to uncertainty, exploration, reinforcement learning</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-     <td><strong>History, Mythology, Ethics, Literature</strong></td>
-      <td><i>Cultural/ethical/behavioural approaches to dealing with uncertainty.</i></td>
-      <td>
-        <ul>
-          <li>Exploration of the unknown - <i>Maps of Meaning</i>, <i>The Hero With a Thousand Faces</i>.</li>
-          <li>Culture and Tradition - as historically embedded knowledge/risk-management.</li>
-          <li>Ethics - <i>'sin of omission'</i>, especially regarding potential + risk.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-     <td><strong>'Contrarian' Careers</strong></td>
-      <td><i>Careers where you are rewarded for correctly disagreeing with the consensus. Lots of uncertainty + risk involved.</i></td>
-      <td>
-        <ul>
-          <li>Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity.<br>e.g. Research, Startups, Hedge Funds </li>
-          <li><i>If they all agreed with you, the opportunity would already be taken.</i></li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+* **Quantitative Methods** - *Quantitative tools to deal with uncertainty*
+    * Probability Theory
+    * Information Theory
+    * Machine Learning
+    * Complexity
+* **Areas of Application** - *Fields where uncertainty plays a large role.*
+    * Quant. Trading
+    * Epidemiology, Medical Statistics
+    * Data Science
+* **Misapplications** - *How to deal with uncertainty like an idiot.*
+    * Iatrogenesis (modern diet 'science')
+    * Lying with statistics ('Bad Pharma')
+    * Naive policy decisions
+* **Uncertainty + Risk Reduction** - *Avoiding/ignoring things to reduce uncertainty.*
+    * Risk Management: knowing what to avoid.
+    * Signal vs. Noise: 80/20, knowing what to ignore.
+* **Neuroscience** - *How the brain deals with uncertainty.*
+    * Hemispheric specialization - dealing with novelty + uncertainty.
+    * Dopamine - exploration, reinforcement learning under uncertainty.
+* **History, Mythology, Ethics, Literature** - *Behavioural approaches to dealing with uncertainty.*
+    * Exploration of the unknown - *Maps of Meaning*, *The Hero With a Thousand Faces*
+    * Culture and Tradition - as historically embedded knowledge/risk-management.
+    * Ethics - '*sin of omission*', potential + risk (regarding uncertain outcomes)
+* **'Contrarian' Careers** - *Disagreeing with the consensus.*
+    * Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity.
+    * e.g. Research, Startups, Hedge Funds
+    * *If they all agreed with you, the opportunity would already be taken*.
+  
 
 
 
