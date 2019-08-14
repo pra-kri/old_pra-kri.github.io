@@ -82,6 +82,6 @@ Prabesh Krishnakumar
 * 1995 - born in London
 * 2014 to 2017 - BA Physics, University of Oxford
 * 2017 to 2019 - Working mostly with Python in multiple roles. (Developer, IT Consultant/Business Analyst)
-* 2019 to 2020 - Will be starting my MSc in Computer Science, University of Warwick.
+* 2019 to 2020 - Might start a MSc in Computer Science, University of Warwick... (?)
 
 
