@@ -27,6 +27,7 @@ The central idea that I'm curious about: <br>
     * Ethics - '*sin of omission*', potential + risk (regarding uncertain outcomes)
 * **'Contrarian' Careers** - *Disagreeing with the consensus.*
     * Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity.
+    * Adding value to society + the markets by exploring uncertainty and making a bet on it.
     * e.g. Research, Startups, Hedge Funds
     * *If they all agreed with you, the opportunity would already be taken*.
   
