@@ -93,20 +93,15 @@ The central idea that I'm curious about: <br>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 14.5836%; height: 17px;">
-<p><strong>'Contrarian' Actions</strong></p>
+<p><strong>'Contrarian' Careers</strong></p>
 <p><em>Actions where you disagree with the consensus; involves a lot of risk + uncertainty in outcome.</em></p>
 </td>
 <td style="width: 14.2857%; height: 17px;">
-<p><span style="text-decoration: underline;"><strong>Contrarian Careers</strong></span></p>
 <ul>
 <li>Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity.</li>
 <li>e.g. Research, Startups, Hedge Funds</li>
 <li><strong><em>If they all agreed with you, the opportunity would already be taken.</em></strong></li>
-</ul>
-<p><span style="text-decoration: underline;"><strong>The Value of (occasionally) Being Contrarian</strong></span></p>
-<ul>
-<li><em>If everyone could do it, it wouldn't be called 'creative'.</em></li>
-<li><em>If everyone was honest all the time, then honesty wouldn't be considered a virtue anymore.</em></li>
+<li><em>If everyone could do it, it wouldn't be 'creative'.</em></li>
 </ul>
 </td>
 </tr>
