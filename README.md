@@ -4,7 +4,7 @@ The central idea that I'm curious about: <br>
 
 
 
-<table style="border-collapse: collapse; width: 100%; height: 2800px;" border="1">
+<table>
 <tbody>
 <tr style="height: 34px;">
 <td style="width: 13.9878%; height: 61px;" rowspan="3">
