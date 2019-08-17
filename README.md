@@ -103,7 +103,7 @@ The central idea that I'm curious about: <br>
 <li>Exploration of uncertain economic/scientific territory, usually where very few people agree on the value of an opportunity.</li>
 <li>e.g. Research, Startups, Hedge Funds</li>
 <li><strong><em>If they all agreed with you, the opportunity would already be taken.</em></strong></li>
-   <li><strong><em>If everyone could do it, it wouldn't be 'creative'.</em></li>
+   <li><strong><em>If everyone could do it, it wouldn't be 'creative'.</em></strong></li>
 </ul>
 </td>
 </tr>
