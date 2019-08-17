@@ -2,7 +2,7 @@
 The central idea that I'm curious about: <br>
 ***Decision-making under uncertainty. How should you act in the face of the unknown?***<br>
 
-<table style="border-collapse: collapse; width: 100%; height: 180px;" border="1">
+<table style="border-collapse: collapse; width: 100%; height: 100%;" border="1">
 <tbody>
 <tr style="height: 34px;">
 <td style="width: 13.9878%; height: 61px;" rowspan="3">
