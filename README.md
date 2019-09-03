@@ -155,7 +155,30 @@ The central idea that I'm curious about: <br>
 
 <br/>
 
+# Links...
 [Github link](https://github.com/pra-kri)   .....   [Website link](https://pra-kri.github.io)
+
+**Interesting Articles/Papers** (links to external sites)
+
+
+| Topic | Title | Type |
+| --- | --- | --- |
+| Talk | [You and Your Research - Richard Hamming ](https://homepages.inf.ed.ac.uk/wadler/papers/firbush/hamming.pdf) | 10 |
+| Neuroscience | [The Neuromodulator of Exploration - Colin DeYoung](https://www.frontiersin.org/articles/10.3389/fnhum.2013.00762/full?utm_source=newsletter&utm_medium=web&utm_campaign=Neuroscience-w49-2013) | 10 |
+| Talk | [N.N.Taleb's AUB Commencement Speech ](https://www.aub.edu.lb/commencement/Documents/speeches-16/nassim-taleb.pdf) | 10 |
+| Neuroscience++ | [Maps of Meaning - Precis - J.B.Peterson](http://www.cogsci.ecs.soton.ac.uk/cgi/psyc/newpsy?article=10.077&submit=View+Article) | 10 |
+| Blog Post | [The Cook and the Chef - WaitButWhy ](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) | 10 |
+| Handbook | [Valve - New Employee Handbook](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf) | 10 |
+| Letters | [Berkshire Hathaway Shareholders Letters - W.Buffett](https://www.berkshirehathaway.com/letters/letters.html) | 10 |
+| Paper | [How Complex Systems Fail - Richard Cook ](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf) | 10 |
+| Guide | [Pmarca Guide To Productivity - Marc Andreesen](https://pmarchive.com/guide_to_personal_productivity.html) | 10 |
+| Guide | [Max Dama on Automated Trading](http://isomorphisms.sdf.org/maxdama.pdf) | 10 |
+| Guide | [Universa Capital - Safe Haven Investing Series](https://www.universa.net/riskmitigation.html) | 10 |
+| Essay | [Great Hackers - Paul Graham](http://www.paulgraham.com/gh.html) | 10 |
+| Guide | [Getting Real - Basecamp/37 Signals](https://basecamp.com/books/getting-real) | 10 |
+| Guide | [A Guide to Bayesian Statistics - Count Bayesie](https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics) | 10 |
+| Letters | [Collection of Hedge Fund Letters - Milton FMR Institure](https://miltonfmr.com/hedge-fund-letters/) | 10 |
+
 
 # Actual bio...
 Prabesh Krishnakumar
